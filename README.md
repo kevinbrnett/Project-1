@@ -20,3 +20,5 @@ Help the retailer understand the properties of products and outlets that play cr
 
 ## To Prepare the dataset, it was cleaned, and the following processes were performed:
 
+## Exploratory Data Analysis:
+
