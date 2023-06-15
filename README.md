@@ -57,9 +57,9 @@ Help the retailer understand the properties of products and outlets that play cr
 ![image](summary_plot_dot.png)
 > - Item_MRP:
      - Lower Item_MRP values produce less sales and higher Item_MRP values produce more sales.
-  - Outlet_Type_Grocery Store:
+> - Outlet_Type_Grocery Store:
      - Outlet types that are grocery stores have a negative impact on sales. Sales are higher if the outlet type is not a grocery store.
-  - Outlet_Type_Supermarket Type3:
+> - Outlet_Type_Supermarket Type3:
      - Sales are generally higher for outlet types of supermarket 3. However, if the outlet type is not supermarket 3 there is little to no negative effect on sales.
 ## Final Recommendations:
 
