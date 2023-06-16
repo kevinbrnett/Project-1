@@ -51,6 +51,9 @@ Help the retailer understand the properties of products and outlets that play cr
 ## Top 3 Coefficients Interpretation
 ![image](https://github.com/kevinbrnett/Project-1-Linear-Regression-Project/blob/main/lin_reg_coeff.png)
 > The most important features the model used for predictions were the 3 Outlet_Type_Supermarket. If a store is Outlet_Type_Supermarket Type 3 sales will increase by \\$3,814.83.If a store is Outlet_Type_Supermarket Type 1 sales will increase by \\$1,511.40. If a store is Outlet_Type_Supermarket Type 2 sales will increase by \\$1,278.18
+
+## Most Important Features from Decision Tree Model
+![image](https://github.com/kevinbrnett/Project-1-Linear-Regression-Project/blob/main/dec_tree_features.png)
  
 ## Global Explanations
 ## SHAP Summary Bar Plot
