@@ -1,6 +1,6 @@
 # Supermarket Sales Predictions
 
-## Analyzing Various Factors to Predict Future Sales of Grocery Stores
+## Analyzing Various Factors to Predict Future Sales of Supermarkets
 
 Kevin Barnett
 
